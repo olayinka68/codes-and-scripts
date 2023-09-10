@@ -11,7 +11,7 @@ Learning the foundational concepts of Vanilla JavaScript is an excellent start, 
 2. **Arrays:**
    - Creating arrays.
    - Accessing and modifying array elements.
-   - Array methods like `push`, `pop`, `shift`, `unshift`, `slice`, `splice`, and `forEach`.
+   - Array methods like ``push`, `pop`, `shift`, `unshift`, `slice`, `splice`, and `forEach`.
 
 3. **Objects:**
    - Creating objects.
